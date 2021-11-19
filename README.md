@@ -39,11 +39,11 @@
 
 ## About The Project
 
-![Portfolio Screen Shot](./)
+
 
 ## Deployed
 
-https://
+https://redux-store-djf.herokuapp.com/
 
 ### Built With
 
